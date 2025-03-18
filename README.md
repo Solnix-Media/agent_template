@@ -1,6 +1,6 @@
 # Solnix Media AI Agent Template
 
-![Solnix Media](https://github.com/user-attachments/assets/a501ba1e-b007-4336-9bbc-8ba761bf04a3)
+![Solnix Media](https://github.com/user-attachments/assets/f497e1de-0029-42d8-894f-3b33bd02f30f)
 
 A comprehensive, production-ready template for building intelligent AI agent systems.
 
